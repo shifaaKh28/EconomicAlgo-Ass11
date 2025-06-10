@@ -1,5 +1,5 @@
 
-````markdown
+
 # Decomposable Participatory Budgeting Checker 
 
 This Python script provides a solution to the problem of determining whether a given continuous participatory budget is **decomposable** (i.e., fair according to certain mathematical criteria), and if so, returns a valid decomposition of that budget among agents.
